@@ -13,4 +13,4 @@ The user interface also includes a data visualization module that visualizes sen
 
 Through this project we have learned numerous new skills. We have learned to design user interfaces in unity, write up kinematics to control a robot arm, and integrate sensors. We have also learned a lot of non-technical skills such as communication within the team, pitching an idea, and collaborating across specialties.
 
-After the hackathon, our team plans on continuing work on VRM. We’ll work on refining our design and adding more features. 
+After the hackathon, our team plans on continuing work on VRM. We’ll work on refining our design and adding more features.  
