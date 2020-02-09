@@ -1,5 +1,5 @@
 # VRM
-![alt text](https://www.jakealford.com/github/vrm/vrm_label.png "VRM")
+![alt text](https://www.jakealford.com/github/vrm/vrmlabel.png "VRM")
 
 ## The Whole Story
 
